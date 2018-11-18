@@ -1,2 +1,5 @@
 # hello-world
-just another repository 
+
+Hi there !
+Mickey's here , I love painting and creating realistic drawings.
+
